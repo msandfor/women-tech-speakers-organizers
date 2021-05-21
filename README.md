@@ -68,6 +68,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### United States
 
+#### Cotishea Anderson
+- [@cotishea](http://twitter.com/cotishea)
+- [LinkedIn(https://www.linkedin.com/in/cotishea)
+- Topics - Managing projects in Azure Devops vs Github, Women in Tech
+- Location - Dallas, Texas
+
 #### Seetha Annamraju
 
 - [@seetha_a](http://twitter.com/seetha_a)
@@ -232,6 +238,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@beardigsit](https://twitter.com/beardigsit)
 - Topics - Dev Rel, events, Android, APIs
 - Location - San Francisco, CA
+
+#### Sangeetha KP
+
+- [@sangee_kp](twitter.com/sangee_kp)
+- [LinkedIn](https://www.linkedin.com/in/sangeetha-kp-029687bb/)
+- Topics - React, Android
+- Location - Seattle, WA (will travel nationally & internationally)
 
 #### Sarah Drasner
 
@@ -432,6 +445,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Ad Tech, Analytics, Ruby on Rails
 - Location - Kansas City, MO
 
+#### Avantika Lal
+
+- [@lal_avantika](https://twitter.com/lal_avantika)
+- [LinkedIn](https://www.linkedin.com/in/avantikalal/)
+- Topics - Computational Biology, Genomics, Machine Learning/AI in Biology
+- Location - Menlo Park, CA
+
 #### Pearl Latteier
 
 - [@TwitterHandle](https://twitter.com/pblatteier)
@@ -552,6 +572,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Vue.js, Performance, Community, Organizing Events, Workshops, Public Speaking, Meetups, Career Advancement, Open Source, Serverless, Media APIs, APIs, Developer Relations/Advocacy, Keynoting, Leadership, Tech Education,
 - Location - Seattle, WA, USA
 
+#### Naomi Meyer
+
+- [@nae_ohmi](https://twitter.com/nae_ohmi)
+- [Personal Website](https://naeohmi.com)
+- Topics - Internationalization I18N, Localization L10N, JavaScript
+- Location - New York, NY, USA
+
 #### Stefana Muller
 
 - [@stefanamuller](https://twitter.com/stefanamuller)
@@ -591,6 +618,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [Slideshare](https://www.slideshare.net/eryno) && [Speakerdeck](https://speakerdeck.com/eryno)
 - Topics - Keynote Speeches, Tech Leading/Tech Management, Leadership, Project Chaos, UX for Developers, Software Ethics, PHP, the human people parts of software development
 - Location - Minneapolis, MN
+
+#### Ritika Nevatia
+
+- [@nevatiaritika](http://twitter.com/nevatiaritika)
+- [Personal Website](http://www.nevatiaritika.com)
+- Topics - Backend, Design, Architecture, Java, Scalability 
+- Location - Seattle, WA, USA
+- Languages besides English - Hindi (native), Marathi (native), Spanish (intermediate), Japanese (beginner), French (beginner)
 
 #### Lyndsey Padget
 
@@ -1008,6 +1043,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - AI, robotics, diversity and inclusion, Canadian startup ecosystem
 - Location - Toronto, ON, Canada & Montreal, QC, Canada
 
+#### Kenza Iraki
+- [LinkedIn](https://www.linkedin.com/in/kenzairaki/)
+- Email: speaker@kenza.dev
+- Topics - Web development (React, Node.js, TypeScript, JavaScript), mobile development (React Native), Engineering Management
+- Location - Montreal, QC, Canada
+- Languages besides English - French
+
 ### Colombia
 
 #### Lina María Montaño Ramirez
@@ -1376,6 +1418,17 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - the Netherlands (will travel nationally and internationally)
 - Languages besides English - Dutch
 
+
+
+### Nigeria
+
+#### Duru Cynthia
+
+- [@Duru_cece](https://twitter.com/durucece)
+- Topics - AWS, Azure, PHP,JavaScript,DevOps, CI/CD, Cloud Engineering,Solutions Architect
+- Location - Lagos, Nigeria
+
+
 #### Hannah Wolfe
 
 - [@erisDS](http://twitter.com/ErisDS)
@@ -1540,6 +1593,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Hyderabad, IN
 - Language - English, Hindi
 
+#### Anuradha Kumari
+
+- [@miracle_404](https://twitter.com/miracle_404)
+- [LinkedIn](https://www.linkedin.com/in/anuradha15/)
+- Topics - Web accessibility, JavaScript, React, Test driven development
+- [My speaking engagements](https://anuk79.netlify.app/tech_talks/)
+- Location - Pune, India
+
 ### Lebanon
 
 #### Sara Soueidan
@@ -1583,6 +1644,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Egwuenu Gift
 - [@lauragift21](https://twitter.com/lauragift21)
 - Topics - JavaScript, HTML/CSS, Tech Community
+- Location - Lagos, Nigeria
+
+#### Chiamaka Ikeanyi
+
+- [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
+- [Personal Website](https://chiamakaikeanyi.dev)
+- Topics of Interest- JavaScript, ReactJS, Accessibility, Performance, Technical Writing, Tooling
 - Location - Lagos, Nigeria
 
 #### Nenne 'Adora' Nwodo
@@ -1934,6 +2002,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@cotufa82](https://twitter.com/cotufa82)
 - [Vue Vixens](https://www.vuevixens.org)
 - Location - Worldwide
+
+#### LasDeSistemas
+
+- [@lasdesistemas](https://twitter.com/lasdesistemas)
+- [FemIT Conf](https://twitter.com/femitconf)
+- Group Focus: LasDeSistemas is a transfeminist community made up of cis women, non-binary, gender nonconforming, trans women, trans men, and more, who are part of the technology industry. We are interested in making our work visible, empowering ourselves to face a world that excludes us, training ourselves to have more opportunities, supporting each other in this path and transforming our work spaces into inclusive environments. FemIT Conf is a free and public tech conference with gender perspective. 
+- Location - Buenos Aires, Argentina
 
 ### Europe
 
@@ -2301,6 +2376,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics for Mentoring - Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, community building
 - Location - Lagos, Nigeria
 
+#### Edidiong Asikpo
+- [@Didicodes](https://twitter.com/Didicodes)
+- How to Contact - via Twitter
+- Topics for Mentoring -Developer Relations, Web development, Students in Bootcamps,  Public Speaking, Technical Writing, Open Source Software, Running Inclusive Workshops, Team Building, Community building
+- Location - Lagos, Nigeria
+
+
 #### Emem Brownson
 - [@brownjee001](https://twitter.com/brownjee001)
 - How to Contact - (mailto:brownjee001@gmail.com) or via Twitter
@@ -2507,11 +2589,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Chiamaka Ikeanyi
 
 - [@chiamakaikeanyi](http://twitter.com/chiamakaikeanyi)
-- [Personal Website](https://chiamakaikeanyi.netlify.com/)
-- chiamakaikeanyi@gmail.com
-- Topics of Interest- JavaScript, ReactJS, Accessibility, Collaboration, Technical Writing
+- [Personal Website](https://chiamakaikeanyi.dev)
+- Topics of Interest- JavaScript, ReactJS, Accessibility, Performance, Technical Writing, Tooling
 - Location - Lagos, Nigeria
-- I crave to expand my knowledge base and aid in raising the next generation of Tech leaders.
+
+#### Naomi Usman
+
+- [@nayneenarh_](http://twitter.com/nayneenarh_)
+- [Personal Website](http://geniedigital.com.ng)
+- chideu@gmail.com
+- Topics of Interest- HTML, CSS, JavaScript, Azure cloud Engineering
+- Location - Lagos, Nigeria
+- I'd like to learn as much as I can, network with other people and be actively involved in community projects
 
 ### Australia
 
